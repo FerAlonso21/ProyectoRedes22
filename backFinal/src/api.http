@@ -1,0 +1,7 @@
+POST              http://localhost:3000/own/prueba
+content-type: application/json
+
+{
+    "ESTP":"j"
+}
+

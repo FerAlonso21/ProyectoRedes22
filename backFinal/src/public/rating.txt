@@ -1,0 +1,2 @@
+{"mail":"roiter","api":"marvel","info":[{"comic":"spiderman","otrodato":"masinfo"}],"rate":"5"}
+{"mail":"roiter","api":"NY","info":[{"comic":"spiderman","otrodato":"masinfo"}],"rate":"5"}

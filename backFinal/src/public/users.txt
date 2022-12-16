@@ -1,0 +1,11 @@
+{"name":"pedro","mail":"roiter","password":"$2a$10$RekG8InhzrFTFdojmsTsjuiMVFkoDTwE.7jxWK0SIqgTt5tF1q9fy","type":"1"}
+{"name":"pedro","mail":"roiter2","password":"$2a$10$XfmXGIT4WhoT8PlbMHWdIe.CXpQVHPUiug9jOEXtt3GQ.Nsg6uU9C","type":"1"}
+{"name":"luis","mail":"hola","password":"$2a$10$CvP3hSYNyXmQTfL8NBR8tuH..D9BFNl3tZSWsW.DGVrCF8kEvubh.","type":"1"}
+{"name":"juan","mail":"juan@hotmail.com","password":"$2a$10$a3QgE93Qg9xRg9G7kpZaBe5Prv1Sv2VjRUHa0rOS57jTWZc51kBvK","type":2}
+{"name":"david nuevo","mail":"kjasdf","password":"$2a$10$ebMAQeBEUkndb9wFPZSQS.CTsZTWRbtIL/FQKpGoMZNJ87CSscKDS","type":2}
+{"name":"cano","mail":"ferchoa","password":"$2a$10$JcJt/9pByiGMUpiVE8tobu1ONQcVR5nZeAZ4a/SmrEeCt.3nvPz7O","type":2}
+{"name":"jhkjbn","mail":"jhkjlklñ","password":"$2a$10$1aUVU4SKzMXl/H1XSnr5oO8H2SaYL3O2YzV7HG4Bd9DQcuhpHNL3K","type":2}
+{"name":"hooa","mail":"ytauygids","password":"$2a$10$kkBYWIfkAGhL02rAaINw8.xfvI7gcVR1E3jHlDulz0hxFmiJEQVoi","type":2}
+{"name":"yftyuguihoijo","mail":"fcghjvkbnlk","password":"$2a$10$yvX6LIk80uovMnygdSWZr.T7E0DqV4zVFsbAUK0ZbxDrArtSfyVmC","type":2}
+{"name":"askbdckjncm","mail":"sadjhcbnimadsjclnmasdf","password":"$2a$10$epR5bra.XGMNDT8bkWGlMe.7x.hGNuXzLACJCXtgE9YcSQNmkNJ1C","type":2}
+{"name":"juan Pablo Alonso","mail":"juanPablo@gmail.com","password":"$2a$10$JIrjvSu.mahj/gx7HR9qKOi9GKrK8W0I9PoRbZQPPZshQzCJiAlPW","type":2}

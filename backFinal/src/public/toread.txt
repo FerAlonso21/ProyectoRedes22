@@ -1,0 +1,14 @@
+{"mail":"roiter","api":"marvel","info":[{"titulo":"hola"}]}
+{"mail":"roiter","api":"Ny","info":[{"titulo":"hola"}]}
+{"mail":"juan@hotmail.com","api":"Ny","info":"THE LIGHT WE CARRY"}
+{"mail":"juan@hotmail.com","api":"Ny","info":"I'M GLAD MY MOM DIED"}
+{"mail":"juan@hotmail.com","api":"Ny","info":"FRIENDS, LOVERS, AND THE BIG TERRIBLE THING"}
+{"mail":"juan@hotmail.com","api":"Ny","info":"SURRENDER"}
+{"mail":"jhkjlklñ","api":"Ny","info":"THE LIGHT WE CARRY"}
+{"mail":"jhkjlklñ","api":"Ny","info":"FRIENDS, LOVERS, AND THE BIG TERRIBLE THING"}
+{"mail":"jhkjlklñ","api":"Ny","info":"SURRENDER"}
+{"mail":"jhkjlklñ","api":"Ny","info":"I'M GLAD MY MOM DIED"}
+{"mail":"juanPablo@gmail.com","api":"Ny","info":"LESSONS IN CHEMISTRY"}
+{"mail":"juanPablo@gmail.com","api":"Ny","info":"THE BOYS FROM BILOXI"}
+{"mail":"juanPablo@gmail.com","api":"Ny","info":"FAIRY TALE"}
+{"mail":"juanPablo@gmail.com","api":"Ny","info":"A WORLD OF CURIOSITIES"}

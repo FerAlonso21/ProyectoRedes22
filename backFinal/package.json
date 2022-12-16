@@ -1,0 +1,26 @@
+{
+  "name": "proyecfofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "js2xml": "^1.0.9",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "util": "^0.12.5",
+    "xml-js": "^1.6.11",
+    "xml-writer": "^1.7.0",
+    "xml2js": "^0.4.23",
+    "xmljs": "^0.3.2"
+  }
+}
